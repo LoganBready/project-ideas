@@ -1,1 +1,11 @@
 PROJECT IDEAS:
+1.
+Ecommerce fishing webstore. 
+2.
+Advanced Notetaking Application.
+3.
+employee management system.
+4.
+Calorie tracking application.
+5.
+Fishing journal type app
